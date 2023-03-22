@@ -1,0 +1,18 @@
+.card-title{
+    font-weight: 600;
+}
+
+.btn{
+    background-color: #474950;
+    border: none;
+}
+.btn:hover{
+    background-color: #66686e;
+}
+
+.card{
+    transition: 0.3s;
+}
+div.orient div.card:hover{
+    box-shadow: 0 0 6px 3px #c1c1c4;
+}
